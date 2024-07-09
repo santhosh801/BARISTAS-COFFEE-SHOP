@@ -29,6 +29,8 @@ The prototype website for the Baristas Cafe About Page is designed to be intuiti
 
 Feel free to explore the prototype and share your feedback!
 
+![Home - Desktop - 1440](https://github.com/santhosh801/BARISTAS-COFFEE-SHOP/assets/146916164/f5b4b093-72a4-4c14-b53c-4d183f620ad5)
+
 ______________________________________________________________________________________
 
 Thank you for checking out the Baristas Cafe About Page project! Your support and feedback are greatly appreciated. Let's brew some great designs together! ☕️✨
